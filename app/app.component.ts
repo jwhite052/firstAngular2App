@@ -11,4 +11,5 @@ import {AuthorsComponent} from './authors.component'
     `,
     directives: [CoursesComponent, AuthorsComponent]
 })
+
 export class AppComponent { }
